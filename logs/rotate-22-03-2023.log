@@ -1,0 +1,24 @@
+{
+  message: 'success in reading all users',
+  level: 'info',
+  label: 'winston custom format',
+  timestamp: '22-03-2023 18:41:32'
+}
+{
+  message: 'Warn in reading all users',
+  level: 'warn',
+  label: 'winston custom format',
+  timestamp: '22-03-2023 18:41:32'
+}
+{
+  message: 'Error in reading all users',
+  level: 'error',
+  label: 'winston custom format',
+  timestamp: '22-03-2023 18:41:32'
+}
+{
+  message: 'Debug in reading all users',
+  level: 'debug',
+  label: 'winston custom format',
+  timestamp: '22-03-2023 18:41:32'
+}
